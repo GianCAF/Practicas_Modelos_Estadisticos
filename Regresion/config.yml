@@ -1,0 +1,7 @@
+modelo:
+  libreria: scikit-learn
+  tipo: LinearRegression
+  variable_dependiente: ventas
+  variables_independientes:
+  - publicidad
+  - precio
