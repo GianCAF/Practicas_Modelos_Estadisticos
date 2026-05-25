@@ -1,0 +1,76 @@
+# ============================================================
+#  limites.yml  —  Límites y validación de variables de entrada
+#  Random Forest Vacaciones México
+# ============================================================
+
+# --- Presupuesto (MXN) ---
+presupuesto:
+  minimo: 1500          # El destino más económico del CSV
+  maximo: 12000         # El destino más caro del CSV
+  paso_sugerido: 500    # Incremento recomendado al pedir al usuario
+  mensaje_fuera_rango: "El presupuesto debe estar entre $1,500 y $12,000 MXN"
+
+# --- Días disponibles ---
+dias:
+  minimo: 1
+  maximo: 5
+  mensaje_fuera_rango: "Los días deben estar entre 1 y 5"
+
+# --- Climas válidos (opciones que se presentan al usuario) ---
+clima:
+  opciones:
+    - id: 1
+      valor: "caluroso"
+      etiqueta: "Caluroso ☀️  (>28°C, sol, calor fuerte)"
+    - id: 2
+      valor: "templado"
+      etiqueta: "Templado 🌤️  (18–27°C, agradable)"
+    - id: 3
+      valor: "frio"
+      etiqueta: "Frío ❄️  (<17°C, fresco o frío)"
+    - id: 4
+      valor: "lluvioso"
+      etiqueta: "Lluvioso 🌧️  (lluvia frecuente, selva/bosque)"
+  permitir_multiple: true       # El usuario puede elegir más de uno
+  maximo_seleccion: 2
+  mensaje_invalido: "Elige al menos 1 clima de las opciones disponibles"
+
+# --- Gustos válidos ---
+gustos:
+  opciones:
+    - id: 1
+      valor: "playa"
+      etiqueta: "Playa 🏖️"
+    - id: 2
+      valor: "naturaleza"
+      etiqueta: "Naturaleza 🌿"
+    - id: 3
+      valor: "historia"
+      etiqueta: "Historia 🏛️"
+    - id: 4
+      valor: "aventura"
+      etiqueta: "Aventura 🧗"
+    - id: 5
+      valor: "gastronomia"
+      etiqueta: "Gastronomía 🍽️"
+    - id: 6
+      valor: "relax"
+      etiqueta: "Relax 🧘"
+    - id: 7
+      valor: "ciudad"
+      etiqueta: "Ciudad 🏙️"
+  minimo_seleccion: 1
+  maximo_seleccion: 3
+  mensaje_invalido: "Elige entre 1 y 3 gustos de la lista"
+
+# --- Umbrales del modelo ---
+modelo:
+  confianza_minima: 0.15        # Score mínimo para mostrar una recomendación
+  advertencia_presupuesto: 0.85 # Avisa si el destino usa >85% del presupuesto
+  fallback_top_n: 3             # Si no hay match, muestra los N más populares
+
+# --- Datos sintéticos (generación controlada) ---
+sinteticos:
+  presupuesto_ruido_pct: 0.10   # ±10% de variación sobre valores reales
+  dias_variacion: 1             # ±1 día sobre valores reales
+  semilla: 99

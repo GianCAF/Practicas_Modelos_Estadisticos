@@ -1,0 +1,64 @@
+# ============================================================
+#  variables.yml  —  Ajuste de variables del modelo
+#  Random Forest Vacaciones México
+# ============================================================
+
+# --- Datos ---
+data:
+  csv_path: "data/destinos_mexico_100.csv"
+  target_column: "nombre"           # Lo que el modelo predice
+  synthetic_ratio: 0.20             # 20% datos sintéticos en cross-validation
+  real_ratio: 0.80                  # 80% datos reales del CSV
+
+# --- Features que usa cada sub-bosque ---
+features:
+  clima:
+    columna_origen: "clima"
+    valores_posibles:
+      - caluroso
+      - frio
+      - templado
+      - lluvioso
+  
+  presupuesto_tiempo:
+    columna_presupuesto: "min_budget"
+    columna_dias: "min_dias"
+  
+  gustos:
+    columna_origen: "gustos"
+    valores_posibles:
+      - playa
+      - naturaleza
+      - historia
+      - aventura
+      - gastronomia
+      - relax
+      - ciudad
+
+# --- Hiperparámetros Random Forest (ajusta aquí sin tocar el .py) ---
+random_forest:
+  n_estimators: 200           # Número de árboles en el bosque
+  max_depth: 10               # Profundidad máxima por árbol
+  min_samples_split: 4        # Mínimo de muestras para dividir un nodo
+  min_samples_leaf: 2         # Mínimo de muestras en hoja
+  max_features: "sqrt"        # Features por split: sqrt | log2 | null
+  random_state: 42            # Semilla de aleatoriedad (reproducibilidad)
+  n_jobs: -1                  # Núcleos de CPU (-1 = todos)
+  class_weight: "balanced"    # Balancea clases desiguales
+
+# --- Sub-bosques (pesos de influencia en decisión final) ---
+sub_bosques:
+  peso_clima: 0.30            # 30% de influencia
+  peso_presupuesto_tiempo: 0.40   # 40% de influencia
+  peso_gustos: 0.30           # 30% de influencia
+
+# --- Cross-validation ---
+cross_validation:
+  n_splits: 5                 # K-folds
+  shuffle: true
+  random_state: 42
+
+# --- Output ---
+output:
+  modelo_path: "model/modelo_rf.joblib"
+  top_n_recomendaciones: 3    # Cuántos destinos recomendar al usuario

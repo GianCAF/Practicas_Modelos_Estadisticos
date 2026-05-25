@@ -1,0 +1,102 @@
+nombre,clima,min_budget,min_dias,gustos,descripcion
+Cancún - Quintana Roo,caluroso|lluvioso,6000,3,playa|relax|gastronomia,Playas turquesas y zona hotelera de clase mundial en el Caribe mexicano.
+Tulum - Quintana Roo,caluroso|lluvioso,5000,3,playa|historia|naturaleza|aventura,Ruinas mayas frente al mar y cenotes en la selva.
+Playa del Carmen - Quintana Roo,caluroso|lluvioso,5500,3,playa|gastronomia|ciudad|relax,La Quinta Avenida y playas cosmopolitas en la Riviera Maya.
+Cozumel - Quintana Roo,caluroso|lluvioso,7000,3,playa|aventura|naturaleza,Isla coralina ideal para buceo y snorkel en arrecifes de talla mundial.
+Isla Mujeres - Quintana Roo,caluroso|lluvioso,4500,2,playa|relax|gastronomia,Isla pequeña con playas de arena blanca y ambiente tranquilo.
+Bacalar - Quintana Roo,caluroso|lluvioso,3500,3,naturaleza|aventura|relax,Laguna de los Siete Colores con aguas cristalinas únicas en México.
+Holbox - Quintana Roo,caluroso|lluvioso,4000,3,playa|naturaleza|relax,Isla sin coches con tiburones ballena y bioluminiscencia nocturna.
+Mérida - Yucatán,caluroso|lluvioso,3000,3,historia|gastronomia|ciudad,Capital cultural del sureste con arquitectura colonial y cocina yucateca.
+Chichén Itzá - Yucatán,caluroso|lluvioso,2000,1,historia|naturaleza,Una de las siete maravillas del mundo moderno. Zona arqueológica maya.
+Uxmal - Yucatán,caluroso|lluvioso,2500,2,historia|naturaleza,Zona arqueológica con la Pirámide del Adivino de estilo Puuc.
+Valladolid - Yucatán,caluroso|lluvioso,2000,2,historia|gastronomia|naturaleza,Ciudad colonial cerca de cenotes y la zona arqueológica de Ek Balam.
+Izamal - Yucatán,caluroso|lluvioso,1800,1,historia|ciudad,Ciudad dorada con convento franciscano y pirámides prehispánicas.
+Campeche - Campeche,caluroso|lluvioso,2500,2,historia|ciudad|gastronomia,Ciudad amurallada Patrimonio de la Humanidad con centro colonial colorido.
+Palenque - Chiapas,caluroso|lluvioso,3500,3,historia|naturaleza|aventura,Zona arqueológica maya rodeada de selva y cascadas en Chiapas.
+San Cristóbal de las Casas - Chiapas,frio|templado,2000,3,historia|naturaleza|ciudad|aventura,Pueblo mágico en las montañas con mercados indígenas y arquitectura colonial.
+Sumidero - Chiapas,caluroso|lluvioso,2500,2,naturaleza|aventura,Cañón de 1000 metros de profundidad navegable en lancha.
+Comitán - Chiapas,frio|templado,1800,2,historia|naturaleza,Ciudad colonial cerca de las lagunas de Montebello y zonas mayas.
+Cascadas de Agua Azul - Chiapas,caluroso|lluvioso,2000,1,naturaleza|aventura,Cascadas turquesas entre la selva chiapaneca de impresionante belleza.
+Misol-Ha - Chiapas,caluroso|lluvioso,1500,1,naturaleza|aventura,Cascada de 35 metros con cueva detrás del agua en plena selva.
+Ciudad de México - CDMX,templado|frio,2000,3,ciudad|historia|gastronomia,Capital del país con museos de clase mundial y gastronomía reconocida globalmente.
+Xochimilco - CDMX,templado,1500,1,historia|gastronomia|naturaleza,Chinampas y trajineras en canales prehispánicos Patrimonio de la Humanidad.
+Teotihuacán - Estado de México,templado,1500,1,historia,Zona arqueológica con la Pirámide del Sol y de la Luna a 50 km de CDMX.
+Valle de Bravo - Estado de México,templado|frio,2000,2,naturaleza|aventura|relax,Lago rodeado de bosque con deportes acuáticos y parapente.
+Taxco - Guerrero,templado,2000,2,historia|ciudad|gastronomia,Ciudad de la plata con arquitectura colonial en calles empedradas.
+Acapulco - Guerrero,caluroso,3500,3,playa|gastronomia|aventura,Puerto histórico con clavadistas de La Quebrada y playas en la bahía.
+Zihuatanejo - Guerrero,caluroso,4000,3,playa|relax|gastronomia,Pueblo pesquero con bahías tranquilas y ambiente relajado en el Pacífico.
+Ixtapa - Guerrero,caluroso,4500,3,playa|relax|aventura,Complejo turístico con playas y golf frente al Pacífico.
+Oaxaca - Oaxaca,templado|caluroso,2500,3,historia|gastronomia|naturaleza|ciudad,Capital con zócalo colonial mole negro mezcal y zonas arqueológicas.
+Monte Albán - Oaxaca,caluroso|templado,1500,1,historia,Antigua capital zapoteca sobre una montaña con vista panorámica al valle.
+Hierve el Agua - Oaxaca,caluroso|templado,1500,1,naturaleza|aventura,Cascadas petrificadas y albercas naturales en la Sierra Sur de Oaxaca.
+Puerto Escondido - Oaxaca,caluroso|lluvioso,3000,3,playa|aventura|naturaleza,Surf de clase mundial en Zicatela y costas salvajes del Pacífico oaxaqueño.
+Huatulco - Oaxaca,caluroso,4500,3,playa|relax|naturaleza,Bahías protegidas con arrecifes de coral y turismo sustentable.
+Mazunte - Oaxaca,caluroso|lluvioso,2000,2,playa|naturaleza|relax,Pueblo hippie con playa nudista y santuario de tortugas marinas.
+Veracruz - Veracruz,caluroso|lluvioso,2500,3,historia|gastronomia|playa,Puerto jarocho con malecón danzón y mariscos de primera calidad.
+Coatepec - Veracruz,templado|lluvioso,1500,2,naturaleza|gastronomia,Capital mundial del café con arquitectura porfiriana y cafetales.
+Xalapa - Veracruz,templado|lluvioso,1800,2,ciudad|historia|gastronomia,Capital veracruzana con el museo de antropología más importante del Golfo.
+El Tajín - Veracruz,caluroso|lluvioso,2000,1,historia,Zona arqueológica totonaca con la Pirámide de los Nichos declarada Patrimonio.
+Tlacotalpan - Veracruz,caluroso|lluvioso,1800,2,historia|ciudad,Pueblo mágico Patrimonio UNESCO con casas de colores a orillas del Papaloapan.
+Puebla - Puebla,templado,2000,2,historia|gastronomia|ciudad,Ciudad Patrimonio con chile en nogada talavera y arquitectura barroca.
+Cholula - Puebla,templado,1500,1,historia|gastronomia,La pirámide más grande del mundo cubierta de tierra con iglesia encima.
+Cuetzalan - Puebla,templado|lluvioso,2000,2,naturaleza|historia|aventura,Pueblo mágico entre niebla cascadas y cultura totonaca en la Sierra Norte.
+Guadalajara - Jalisco,templado|caluroso,2500,3,ciudad|historia|gastronomia,Segunda ciudad del país con tequila mariachi y arquitectura porfiriana.
+Puerto Vallarta - Jalisco,caluroso,5000,3,playa|gastronomia|ciudad|relax,Puerto cosmopolita con Malecón montañas y playa en la Bahía de Banderas.
+Tequila - Jalisco,caluroso|templado,2000,2,gastronomia|historia|aventura,Pueblo mágico cuna del tequila con destilerías y agaveras declaradas Patrimonio.
+Tlaquepaque - Jalisco,templado,1500,1,historia|ciudad|gastronomia,Centro artesanal y gastronómico a 15 minutos de Guadalajara.
+Lagos de Moreno - Jalisco,templado,1500,2,historia|ciudad,Ciudad Patrimonio con 30 templos y arquitectura colonial conservada.
+Guanajuato - Guanajuato,templado,2500,3,historia|ciudad|gastronomia,Ciudad minera Patrimonio con callejones túneles y el Festival Cervantino.
+San Miguel de Allende - Guanajuato,templado,4000,3,historia|ciudad|relax|gastronomia,Ciudad Patrimonio reconocida como mejor ciudad del mundo por viajeros.
+Dolores Hidalgo - Guanajuato,templado,1500,2,historia|gastronomia,Cuna de la Independencia con helados exóticos y talavera local.
+León - Guanajuato,templado,2000,2,ciudad|gastronomia,Capital mundial del calzado con gastronomía y vida nocturna activa.
+Querétaro - Querétaro,templado,2500,2,historia|ciudad|gastronomia,Centro histórico Patrimonio con acueducto colonial y vinos regionales.
+Tequisquiapan - Querétaro,templado,2000,2,naturaleza|relax|gastronomia,Pueblo mágico con balnearios quesos vinos y artesanías de mimbre.
+Bernal - Querétaro,templado,1500,1,naturaleza|aventura|historia,Tercer monolito más grande del mundo con escalada y pueblo mágico.
+Monterrey - Nuevo León,caluroso|templado,3000,2,ciudad|gastronomia|aventura,Capital industrial del norte con Barrio Antiguo cabrito y Parque Fundidora.
+Grutas de García - Nuevo León,templado,1500,1,naturaleza|aventura,Cavernas a 1000 metros de altura con estalactitas y teleférico.
+Parras de la Fuente - Coahuila,caluroso|templado,2000,2,historia|gastronomia|relax,Primer municipio vinícola de América con viñedos desde 1597.
+Cuatro Ciénegas - Coahuila,caluroso,2500,2,naturaleza|aventura,Reserva de la biosfera con pozas azules y dunas de yeso únicas en el mundo.
+Durango - Durango,templado|frio,2000,2,historia|naturaleza|aventura,Tierra de escorpiones con locaciones de westerns y Quebrada de Sinforosa.
+Mazatlán - Sinaloa,caluroso|templado,4000,3,playa|gastronomia|historia,Malecón más largo de México con mariscos frescos y centro histórico colonial.
+Los Mochis - Sinaloa,caluroso,2500,2,naturaleza|aventura,Punto de inicio del Chepe hacia las Barrancas del Cobre.
+Creel - Chihuahua,frio|templado,3000,3,naturaleza|aventura|historia,Pueblo tarahumara en las Barrancas del Cobre con bosques y cañones.
+Barrancas del Cobre - Chihuahua,frio|templado,5000,5,naturaleza|aventura,Sistema de cañones más grande de México recorrido en tren escénico Chepe.
+Hidalgo del Parral - Chihuahua,caluroso|templado,2000,2,historia,Ciudad minera donde fue asesinado Pancho Villa con museos históricos.
+Chihuahua - Chihuahua,templado|frio,2500,2,historia|ciudad,Capital con el Museo de la Revolución en la quinta de Pancho Villa.
+Hermosillo - Sonora,caluroso,2000,2,gastronomia|ciudad,Capital sonorense con carne asada y gastronomía norteña auténtica.
+Álamos - Sonora,caluroso|templado,2500,2,historia|naturaleza|relax,Pueblo mágico colonial en la Sierra Madre con arquitectura virreinal.
+Bahía de Kino - Sonora,caluroso,3000,3,playa|naturaleza|relax,Playa tranquila con comunidades Seri y el Mar de Cortés turquesa.
+Loreto - Baja California Sur,caluroso,4000,3,playa|historia|naturaleza|aventura,Primera misión de Baja California con kayak y ballenas en el Mar de Cortés.
+La Paz - Baja California Sur,caluroso,5000,3,playa|naturaleza|aventura|relax,Capital bajacaliforniana con lobos marinos tiburones ballena y malecón.
+Los Cabos - Baja California Sur,caluroso,12000,4,playa|relax|aventura|gastronomia,Lujo buceo y el Arco de Cabo San Lucas en el fin de la península.
+Ensenada - Baja California,templado,3000,2,gastronomia|naturaleza|historia,Puerto vinícola con la Bufadora mariscos y el Valle de Guadalupe cercano.
+Valle de Guadalupe - Baja California,templado,5000,2,gastronomia|relax|naturaleza,Capital vinícola de México con restaurantes de clase mundial entre viñedos.
+Tijuana - Baja California,templado,2500,2,gastronomia|ciudad,Ciudad fronteriza con gastronomía reconocida y vida cultural vibrante.
+San Luis Potosí - San Luis Potosí,templado,2000,2,historia|ciudad|gastronomia,Centro histórico Patrimonio con enchiladas potosinas y arquitectura barroca.
+Real de Catorce - San Luis Potosí,frio|templado,2500,2,historia|aventura|naturaleza,Pueblo fantasma minero a 2700 metros con peregrinaciones y desierto huichol.
+Xilitla - San Luis Potosí,caluroso|lluvioso,2000,2,naturaleza|aventura|historia,Jardín surrealista de Edward James en la Huasteca Potosina.
+Huasteca Potosina - San Luis Potosí,caluroso|lluvioso,3000,3,naturaleza|aventura,Cascada de Tamul río Gallinas y pozas turquesas en la selva huasteca.
+Morelia - Michoacán,templado,2500,3,historia|ciudad|gastronomia,Capital Patrimonio con catedral rosada carnitas michoacanas y artesanías.
+Pátzcuaro - Michoacán,frio|templado,2000,2,historia|naturaleza|gastronomia,Lago y pueblo mágico con la mayor celebración del Día de Muertos del país.
+Uruapan - Michoacán,templado|lluvioso,1800,2,naturaleza|gastronomia,Ciudad de los aguacates con el Parque Nacional Barranca del Cupatitzio.
+Angangueo - Michoacán,frio,2000,2,naturaleza,Santuario de la mariposa monarca declarado Patrimonio de la Humanidad.
+Zitácuaro - Michoacán,frio|templado,1800,2,naturaleza|relax,Reservas de mariposa monarca con bosques de oyamel en las montañas.
+Cuernavaca - Morelos,caluroso|templado,2500,2,historia|relax|gastronomia,La ciudad de la eterna primavera con jardines palacios y pozole morelense.
+Tepoztlán - Morelos,templado,1500,2,naturaleza|aventura|historia,Pirámide mercado artesanal y senderismo al Cerro del Tepozteco.
+Tlayacapan - Morelos,caluroso|templado,1500,1,historia|gastronomia,Pueblo mágico con convento del siglo XVI y pulque curado artesanal.
+Tlaxcala - Tlaxcala,templado,1500,2,historia|ciudad,Capital más pequeña del país con zona arqueológica de Cacaxtla y murales únicos.
+Huamantla - Tlaxcala,templado,1500,2,historia|gastronomia,Pueblo mágico famoso por la Noche que Nadie Duerme y tapetes de aserrín.
+Pachuca - Hidalgo,frio|templado,1500,2,historia|gastronomia|ciudad,Capital de la plata con pastes cornish y el Archivo Casasola de fotografía histórica.
+Tula - Hidalgo,templado,1500,1,historia,Zona arqueológica tolteca con los Atlantes guardianes del templo de Tlahuizcalpantecuhtli.
+Mineral del Monte - Hidalgo,frio,1500,2,historia|naturaleza|gastronomia,Pueblo mágico minero con influencia inglesa pastes y bosques de pino.
+Toluca - Estado de México,frio,1500,2,historia|gastronomia|ciudad,Capital mexiquense con el cosmopolita y nevado cercano para senderismo.
+Malinalco - Estado de México,caluroso|templado,1500,2,historia|naturaleza,Zona arqueológica tallada en roca viva con ambiente espiritual y naturaleza.
+Metepec - Estado de México,templado,1500,1,historia|gastronomia,Ciudad artesanal con el Árbol de la Vida en barro y gastronomía mexiquense.
+Zacatecas - Zacatecas,templado|frio,2500,2,historia|ciudad|gastronomia,Ciudad minera Patrimonio con teleférico catedral barroca y Cerro de la Bufa.
+Jerez - Zacatecas,templado,1500,2,historia|gastronomia,Pueblo mágico natal de López Velarde con arquitectura colonial y mezcal.
+Aguascalientes - Aguascalientes,templado,2000,2,historia|gastronomia|ciudad,Ciudad de las rosas con la Feria Nacional más grande del país en abril.
+Colima - Colima,caluroso|templado,2000,2,historia|naturaleza|gastronomia,Capital tranquila con volcán activo laguna de Carrizalillo y tatemado.
+Comala - Colima,caluroso|templado,1500,1,historia|gastronomia,Pueblo blanco inspiración de Pedro Páramo con ponche y botanas gratuitas.
+Nayarit - Nayarit,caluroso|lluvioso,3500,3,playa|naturaleza|aventura,Riviera Nayarit con San Blas Sayulita y las islas Marías.
+Sayulita - Nayarit,caluroso|lluvioso,3500,3,playa|aventura|gastronomia,Pueblo surf con ambiente bohemio gastronomía y playa en la Riviera Nayarit.
+Tepic - Nayarit,templado|lluvioso,1800,2,historia|naturaleza,Capital nayarita cerca de la laguna de Santa María del Oro volcánica.
